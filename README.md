@@ -26,7 +26,7 @@ Support Israel through the terminal ❤️
 
 2. **Navigate to the directory**:
     ```bash
-    cd israel-ascii-flag
+    cd IsraelFlagASCII
     ```
 
 3. **Install the required library**:
