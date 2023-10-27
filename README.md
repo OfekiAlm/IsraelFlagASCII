@@ -4,6 +4,8 @@ Support Israel through the terminal ❤️
 
 ![Sample ASCII Art of Israeli Flag](flag.png) 
 
+![tool_showcase](/assests/showcase_tool.mp4)
+
 > Note: The image above is a representation. Your actual output will vary based on the terminal and the image you use.
 
 ## 🇮🇱 Features:
