@@ -4,6 +4,10 @@ Support Israel through the terminal ❤️
 
 ![Sample ASCII Art of Israeli Flag](flag.png) 
 
+https://github.com/OfekiAlm/IsraelFlagASCII/assets/55667596/6cac11aa-997d-43cb-a0da-b7e23d4e2bd6
+
+
+
 > Note: The image above is a representation. Your actual output will vary based on the terminal and the image you use.
 
 ## 🇮🇱 Features:
